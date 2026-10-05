@@ -1,0 +1,1081 @@
+POS_Timestamp,Store_Location,SKU_Code,Product_Name,Dept_Category,Classification,MRP,Units_Out,Inventory_Level,Expiry_Window
+03/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,20,30,3
+03/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,18,34,5
+03/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,21,23,7
+03/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,12,20,4
+03/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,28,2
+03/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,11,14,4
+03/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,62,38,180
+03/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,60,180
+03/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,54,58,365
+03/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,20,32,180
+03/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,38,45,365
+03/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,39,71,365
+04/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,25,25,3
+04/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,31,49,5
+04/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,32,30,7
+04/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,11,13,4
+04/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,33,45,2
+04/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,18,14,4
+04/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,65,78,180
+04/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,79,106,180
+04/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,31,32,365
+04/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,73,63,180
+04/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,48,33,365
+04/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,49,85,365
+05/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,23,37,3
+05/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,16,19,5
+05/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,7,8,7
+05/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,15,26,4
+05/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,27,50,2
+05/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,45,4
+05/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,34,47,180
+05/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,82,60,180
+05/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,57,34,365
+05/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,68,63,180
+05/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,43,83,365
+05/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,37,40,365
+06/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,19,3
+06/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,11,6,5
+06/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,23,23,7
+06/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,25,32,4
+06/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,11,12,2
+06/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,30,42,4
+06/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,46,73,180
+06/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,50,46,180
+06/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,36,40,365
+06/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,50,66,180
+06/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,28,44,365
+06/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,46,60,365
+07/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,18,32,3
+07/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,24,20,5
+07/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,14,27,7
+07/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,17,23,4
+07/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,14,11,2
+07/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,27,17,4
+07/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,34,21,180
+07/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,53,77,180
+07/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,35,68,365
+07/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,23,34,180
+07/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,40,56,365
+07/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,55,82,365
+08/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,13,8,3
+08/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,21,14,5
+08/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,29,53,7
+08/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,18,4
+08/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,47,2
+08/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,29,4
+08/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,41,59,180
+08/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,22,42,180
+08/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,47,56,365
+08/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,27,47,180
+08/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,50,85,365
+08/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,18,16,365
+09/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,8,15,3
+09/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,28,33,5
+09/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,27,7
+09/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,16,4
+09/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,16,2
+09/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,17,4
+09/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,59,48,180
+09/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,63,106,180
+09/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,37,47,365
+09/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,39,47,180
+09/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,53,36,365
+09/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,50,62,365
+10/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,24,47,3
+10/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,17,30,5
+10/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,30,57,7
+10/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,28,35,4
+10/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,4,7,2
+10/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,10,7,4
+10/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,38,44,180
+10/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,48,37,180
+10/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,38,50,365
+10/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,33,49,180
+10/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,19,14,365
+10/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,50,41,365
+11/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,14,24,3
+11/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,18,35,5
+11/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,26,7
+11/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,26,4
+11/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,34,58,2
+11/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,41,63,4
+11/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,71,67,180
+11/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,56,92,180
+11/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,49,47,365
+11/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,25,27,180
+11/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,46,88,365
+11/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,55,55,365
+12/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,26,37,3
+12/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,41,54,5
+12/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,21,33,7
+12/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,40,33,4
+12/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,35,51,2
+12/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,16,20,4
+12/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,71,70,180
+12/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,35,62,180
+12/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,30,27,365
+12/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,74,49,180
+12/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,73,63,365
+12/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,64,53,365
+13/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,4,2,3
+13/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,17,13,5
+13/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,27,48,7
+13/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,11,20,4
+13/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,9,14,2
+13/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,23,30,4
+13/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,47,50,180
+13/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,18,27,180
+13/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,42,63,365
+13/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,63,63,180
+13/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,53,52,365
+13/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,35,21,365
+14/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,29,57,3
+14/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,17,13,5
+14/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,11,21,7
+14/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,27,51,4
+14/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,30,2
+14/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,20,24,4
+14/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,47,39,180
+14/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,46,80,180
+14/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,48,56,365
+14/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,48,86,180
+14/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,35,35,365
+14/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,24,29,365
+15/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,8,9,3
+15/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,21,36,5
+15/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,11,21,7
+15/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,20,28,4
+15/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,27,30,2
+15/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,22,40,4
+15/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,44,76,180
+15/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,54,180
+15/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,27,51,365
+15/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,18,31,180
+15/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,21,29,365
+15/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,23,15,365
+16/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,39,3
+16/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,23,30,5
+16/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,22,36,7
+16/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,19,12,4
+16/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,21,2
+16/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,12,17,4
+16/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,21,38,180
+16/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,30,52,180
+16/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,57,46,365
+16/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,36,38,180
+16/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,46,50,365
+16/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,23,32,365
+17/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,47,3
+17/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,20,24,5
+17/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,11,15,7
+17/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,20,25,4
+17/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,32,46,2
+17/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,8,11,4
+17/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,28,180
+17/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,36,52,180
+17/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,53,72,365
+17/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,48,91,180
+17/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,56,104,365
+17/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,12,14,365
+18/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,25,38,3
+18/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,31,28,5
+18/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,16,29,7
+18/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,21,4
+18/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,28,29,2
+18/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,34,55,4
+18/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,42,28,180
+18/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,79,117,180
+18/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,54,72,365
+18/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,31,52,180
+18/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,84,67,365
+18/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,35,21,365
+19/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,33,42,3
+19/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,25,44,5
+19/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,16,29,7
+19/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,22,23,4
+19/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,18,28,2
+19/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,19,4
+19/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,58,100,180
+19/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,52,40,180
+19/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,54,107,365
+19/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,67,180
+19/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,48,36,365
+19/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,43,36,365
+20/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,34,3
+20/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,14,11,5
+20/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,30,48,7
+20/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,24,4
+20/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,13,2
+20/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,21,4
+20/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,37,70,180
+20/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,35,23,180
+20/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,52,365
+20/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,44,84,180
+20/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,34,20,365
+20/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,37,36,365
+21/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,25,28,3
+21/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,21,18,5
+21/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,16,14,7
+21/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,21,4
+21/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,9,16,2
+21/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,22,23,4
+21/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,25,30,180
+21/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,19,24,180
+21/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,35,35,365
+21/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,45,36,180
+21/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,20,15,365
+21/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,30,20,365
+22/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,5,8,3
+22/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,23,34,5
+22/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,8,9,7
+22/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,11,20,4
+22/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,45,2
+22/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,30,19,4
+22/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,38,58,180
+22/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,53,105,180
+22/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,34,47,365
+22/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,54,54,180
+22/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,45,53,365
+22/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,50,69,365
+23/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,24,28,3
+23/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,10,7,5
+23/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,14,7
+23/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,35,64,4
+23/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,14,23,2
+23/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,38,4
+23/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,41,43,180
+23/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,47,67,180
+23/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,23,24,365
+23/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,55,83,180
+23/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,42,31,365
+23/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,32,34,365
+24/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,7,4,3
+24/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,18,12,5
+24/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,10,16,7
+24/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,43,4
+24/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,11,7,2
+24/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,30,4
+24/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,39,27,180
+24/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,44,78,180
+24/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,45,52,365
+24/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,24,38,180
+24/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,58,115,365
+24/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,46,47,365
+25/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,32,32,3
+25/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,31,30,5
+25/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,24,34,7
+25/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,37,59,4
+25/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,34,35,2
+25/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,27,40,4
+25/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,42,40,180
+25/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,64,111,180
+25/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,45,59,365
+25/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,37,64,180
+25/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,75,85,365
+25/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,55,63,365
+26/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,11,9,3
+26/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,32,62,5
+26/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,32,63,7
+26/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,39,4
+26/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,33,59,2
+26/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,15,4
+26/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,69,97,180
+26/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,44,61,180
+26/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,56,72,365
+26/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,81,59,180
+26/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,49,50,365
+26/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,60,55,365
+27/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,16,22,3
+27/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,14,10,5
+27/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,24,16,7
+27/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,31,4
+27/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,7,8,2
+27/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,29,29,4
+27/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,53,58,180
+27/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,32,59,180
+27/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,25,34,365
+27/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,52,32,180
+27/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,40,78,365
+27/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,26,30,365
+28/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,23,3
+28/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,22,20,5
+28/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,31,7
+28/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,28,19,4
+28/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,47,2
+28/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,15,4
+28/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,47,93,180
+28/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,61,69,180
+28/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,47,76,365
+28/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,31,60,180
+28/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,38,53,365
+28/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,54,98,365
+29/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,8,6,3
+29/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,22,32,5
+29/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,21,38,7
+29/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,12,4
+29/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,29,44,2
+29/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,12,4
+29/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,43,34,180
+29/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,48,68,180
+29/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,28,35,365
+29/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,24,21,180
+29/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,50,88,365
+29/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,35,36,365
+30/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,11,21,3
+30/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,26,29,5
+30/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,20,26,7
+30/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,12,7,4
+30/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,46,2
+30/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,29,4
+30/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,32,46,180
+30/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,61,69,180
+30/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,40,45,365
+30/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,56,104,180
+30/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,51,72,365
+30/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,54,92,365
+31/07/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,20,3
+31/07/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,29,52,5
+31/07/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,10,14,7
+31/07/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,20,12,4
+31/07/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,25,2
+31/07/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,28,4
+31/07/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,35,32,180
+31/07/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,51,34,180
+31/07/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,45,51,365
+31/07/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,47,59,180
+31/07/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,40,53,365
+31/07/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,20,36,365
+01/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,32,48,3
+01/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,8,8,5
+01/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,33,23,7
+01/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,63,4
+01/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,25,27,2
+01/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,43,4
+01/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,37,26,180
+01/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,57,85,180
+01/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,62,93,365
+01/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,71,75,180
+01/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,76,57,365
+01/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,45,37,365
+02/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,42,65,3
+02/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,28,35,5
+02/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,30,7
+02/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,26,46,4
+02/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,42,2
+02/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,36,4
+02/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,29,24,180
+02/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,52,55,180
+02/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,72,127,365
+02/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,71,111,180
+02/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,71,109,365
+02/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,67,93,365
+03/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,30,59,3
+03/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,19,15,5
+03/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,16,17,7
+03/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,23,35,4
+03/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,22,42,2
+03/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,33,46,4
+03/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,47,48,180
+03/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,39,27,180
+03/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,58,38,365
+03/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,39,37,180
+03/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,25,21,365
+03/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,65,94,365
+04/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,14,26,3
+04/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,23,36,5
+04/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,3,4,7
+04/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,21,4
+04/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,7,10,2
+04/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,25,27,4
+04/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,46,40,180
+04/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,53,97,180
+04/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,57,83,365
+04/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,29,40,180
+04/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,36,61,365
+04/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,35,36,365
+05/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,15,21,3
+05/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,32,27,5
+05/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,21,29,7
+05/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,35,4
+05/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,27,27,2
+05/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,11,10,4
+05/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,43,65,180
+05/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,15,26,180
+05/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,25,16,365
+05/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,26,20,180
+05/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,28,50,365
+05/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,30,46,365
+06/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,51,3
+06/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,16,31,5
+06/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,16,7
+06/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,11,18,4
+06/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,25,21,2
+06/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,25,4
+06/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,47,48,180
+06/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,31,27,180
+06/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,35,40,365
+06/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,41,54,180
+06/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,36,61,365
+06/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,55,98,365
+07/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,30,19,3
+07/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,31,21,5
+07/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,27,19,7
+07/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,22,38,4
+07/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,22,40,2
+07/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,19,31,4
+07/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,42,28,180
+07/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,46,42,180
+07/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,52,37,365
+07/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,57,94,180
+07/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,25,42,365
+07/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,28,21,365
+08/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,10,15,3
+08/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,17,30,5
+08/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,31,39,7
+08/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,20,14,4
+08/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,27,40,2
+08/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,22,30,4
+08/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,55,96,180
+08/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,74,131,180
+08/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,68,54,365
+08/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,48,56,180
+08/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,44,47,365
+08/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,76,70,365
+09/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,37,42,3
+09/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,37,50,5
+09/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,8,6,7
+09/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,22,40,4
+09/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,20,25,2
+09/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,25,4
+09/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,62,105,180
+09/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,68,126,180
+09/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,51,83,365
+09/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,52,103,180
+09/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,38,48,365
+09/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,21,12,365
+10/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,5,8,3
+10/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,15,24,5
+10/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,11,13,7
+10/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,13,17,4
+10/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,27,43,2
+10/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,18,13,4
+10/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,58,57,180
+10/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,28,19,180
+10/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,35,60,365
+10/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,40,72,180
+10/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,41,55,365
+10/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,23,45,365
+11/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,53,3
+11/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,22,39,5
+11/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,21,40,7
+11/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,31,19,4
+11/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,22,2
+11/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,20,17,4
+11/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,33,39,180
+11/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,50,60,180
+11/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,30,365
+11/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,56,99,180
+11/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,48,48,365
+11/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,31,47,365
+12/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,22,32,3
+12/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,29,30,5
+12/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,11,7,7
+12/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,33,41,4
+12/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,16,2
+12/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,24,18,4
+12/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,52,52,180
+12/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,19,31,180
+12/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,36,30,365
+12/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,32,41,180
+12/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,20,30,365
+12/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,32,54,365
+13/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,11,3
+13/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,15,14,5
+13/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,12,9,7
+13/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,9,11,4
+13/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,20,21,2
+13/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,31,4
+13/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,52,36,180
+13/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,21,29,180
+13/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,51,89,365
+13/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,51,88,180
+13/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,37,56,365
+13/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,30,43,365
+14/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,24,38,3
+14/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,23,28,5
+14/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,12,14,7
+14/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,1,1,4
+14/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,11,9,2
+14/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,16,14,4
+14/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,51,39,180
+14/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,27,29,180
+14/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,38,51,365
+14/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,44,60,180
+14/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,34,64,365
+14/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,35,30,365
+15/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,29,56,3
+15/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,45,63,5
+15/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,32,29,7
+15/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,23,4
+15/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,31,39,2
+15/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,32,4
+15/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,59,102,180
+15/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,32,38,180
+15/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,67,128,365
+15/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,36,180
+15/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,78,89,365
+15/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,63,73,365
+16/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,40,49,3
+16/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,13,19,5
+16/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,30,22,7
+16/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,34,34,4
+16/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,27,36,2
+16/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,37,4
+16/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,77,119,180
+16/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,65,85,180
+16/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,71,81,365
+16/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,24,19,180
+16/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,38,68,365
+16/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,45,63,365
+17/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,11,14,3
+17/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,15,11,5
+17/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,22,23,7
+17/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,26,4
+17/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,34,2
+17/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,25,4
+17/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,22,18,180
+17/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,36,61,180
+17/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,23,20,365
+17/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,42,69,180
+17/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,31,50,365
+17/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,33,32,365
+18/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,19,18,3
+18/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,21,36,5
+18/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,24,32,7
+18/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,12,4
+18/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,17,24,2
+18/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,8,11,4
+18/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,38,54,180
+18/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,27,28,180
+18/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,35,44,365
+18/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,33,32,180
+18/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,57,49,365
+18/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,45,51,365
+19/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,24,41,3
+19/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,23,24,5
+19/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,15,7
+19/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,31,4
+19/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,15,2
+19/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,13,17,4
+19/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,53,103,180
+19/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,24,35,180
+19/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,47,33,365
+19/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,48,85,180
+19/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,48,54,365
+19/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,42,52,365
+20/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,5,5,3
+20/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,8,9,5
+20/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,8,5,7
+20/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,5,9,4
+20/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,22,16,2
+20/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,16,14,4
+20/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,48,47,180
+20/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,63,180
+20/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,55,54,365
+20/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,19,13,180
+20/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,52,97,365
+20/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,21,17,365
+21/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,17,22,3
+21/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,18,33,5
+21/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,20,28,7
+21/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,12,7,4
+21/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,16,12,2
+21/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,19,31,4
+21/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,46,180
+21/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,28,44,180
+21/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,37,37,365
+21/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,59,97,180
+21/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,22,42,365
+21/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,38,40,365
+22/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,33,58,3
+22/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,24,18,5
+22/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,36,37,7
+22/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,31,37,4
+22/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,9,13,2
+22/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,13,4
+22/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,69,132,180
+22/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,37,54,180
+22/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,40,76,365
+22/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,43,27,180
+22/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,47,53,365
+22/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,40,41,365
+23/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,14,13,3
+23/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,12,14,5
+23/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,38,57,7
+23/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,22,36,4
+23/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,13,12,2
+23/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,49,4
+23/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,30,45,180
+23/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,44,51,180
+23/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,65,100,365
+23/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,67,96,180
+23/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,82,78,365
+23/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,53,41,365
+24/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,24,28,3
+24/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,10,17,5
+24/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,48,7
+24/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,30,36,4
+24/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,29,2
+24/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,23,16,4
+24/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,22,40,180
+24/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,55,49,180
+24/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,31,38,365
+24/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,32,48,180
+24/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,37,59,365
+24/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,32,40,365
+25/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,20,12,3
+25/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,17,18,5
+25/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,23,7
+25/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,31,41,4
+25/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,6,5,2
+25/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,29,18,4
+25/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,26,32,180
+25/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,37,62,180
+25/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,53,73,365
+25/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,51,64,180
+25/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,32,54,365
+25/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,46,67,365
+26/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,25,30,3
+26/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,16,12,5
+26/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,49,7
+26/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,9,17,4
+26/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,10,12,2
+26/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,34,4
+26/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,36,36,180
+26/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,40,46,180
+26/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,36,53,365
+26/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,35,67,180
+26/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,33,63,365
+26/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,32,19,365
+27/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,31,51,3
+27/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,15,29,5
+27/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,6,5,7
+27/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,14,4
+27/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,18,18,2
+27/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,33,4
+27/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,53,180
+27/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,22,34,180
+27/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,40,38,365
+27/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,44,66,180
+27/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,42,58,365
+27/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,36,54,365
+28/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,30,42,3
+28/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,11,12,5
+28/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,25,35,7
+28/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,15,14,4
+28/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,31,60,2
+28/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,19,15,4
+28/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,28,45,180
+28/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,60,44,180
+28/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,27,28,365
+28/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,26,50,180
+28/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,57,96,365
+28/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,40,56,365
+29/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,39,62,3
+29/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,17,26,5
+29/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,22,21,7
+29/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,15,26,4
+29/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,30,31,2
+29/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,16,4
+29/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,34,32,180
+29/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,29,22,180
+29/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,77,128,365
+29/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,75,118,180
+29/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,59,106,365
+29/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,60,116,365
+30/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,9,14,3
+30/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,14,13,5
+30/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,25,41,7
+30/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,30,33,4
+30/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,34,50,2
+30/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,12,7,4
+30/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,34,56,180
+30/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,26,26,180
+30/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,47,93,365
+30/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,47,63,180
+30/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,42,58,365
+30/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,73,92,365
+31/08/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,17,3
+31/08/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,19,28,5
+31/08/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,9,11,7
+31/08/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,21,4
+31/08/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,12,2
+31/08/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,26,4
+31/08/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,24,19,180
+31/08/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,34,25,180
+31/08/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,27,39,365
+31/08/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,32,48,180
+31/08/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,54,52,365
+31/08/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,23,14,365
+01/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,7,6,3
+01/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,24,47,5
+01/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,10,12,7
+01/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,7,9,4
+01/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,22,2
+01/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,26,4
+01/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,37,54,180
+01/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,49,47,180
+01/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,61,119,365
+01/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,49,78,180
+01/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,52,93,365
+01/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,58,115,365
+02/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,13,19,3
+02/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,20,31,5
+02/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,11,16,7
+02/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,21,4
+02/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,27,2
+02/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,31,22,4
+02/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,28,35,180
+02/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,47,70,180
+02/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,33,35,365
+02/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,21,26,180
+02/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,49,78,365
+02/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,50,52,365
+03/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,22,31,3
+03/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,29,46,5
+03/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,14,9,7
+03/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,6,7,4
+03/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,16,13,2
+03/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,10,18,4
+03/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,39,42,180
+03/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,32,23,180
+03/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,48,87,365
+03/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,59,40,180
+03/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,38,50,365
+03/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,55,48,365
+04/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,2,3,3
+04/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,23,14,5
+04/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,30,48,7
+04/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,11,20,4
+04/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,11,2
+04/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,16,28,4
+04/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,20,21,180
+04/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,18,25,180
+04/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,44,365
+04/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,41,73,180
+04/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,33,64,365
+04/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,53,47,365
+05/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,13,12,3
+05/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,31,20,5
+05/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,46,7
+05/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,30,4
+05/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,31,57,2
+05/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,36,56,4
+05/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,41,76,180
+05/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,38,44,180
+05/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,39,37,365
+05/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,68,59,180
+05/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,49,44,365
+05/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,49,60,365
+06/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,18,22,3
+06/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,11,11,5
+06/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,23,18,7
+06/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,26,42,4
+06/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,32,2
+06/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,13,20,4
+06/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,80,105,180
+06/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,34,40,180
+06/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,86,78,365
+06/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,53,52,180
+06/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,54,66,365
+06/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,68,81,365
+07/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,25,47,3
+07/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,15,28,5
+07/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,14,7
+07/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,15,27,4
+07/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,36,2
+07/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,27,30,4
+07/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,33,61,180
+07/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,29,43,180
+07/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,60,119,365
+07/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,54,38,180
+07/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,28,20,365
+07/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,56,95,365
+08/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,11,8,3
+08/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,17,28,5
+08/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,13,10,7
+08/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,28,22,4
+08/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,39,2
+08/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,30,30,4
+08/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,50,180
+08/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,42,69,180
+08/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,48,64,365
+08/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,29,18,180
+08/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,48,68,365
+08/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,29,34,365
+09/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,9,3
+09/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,12,8,5
+09/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,17,20,7
+09/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,23,37,4
+09/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,29,2
+09/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,16,26,4
+09/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,28,41,180
+09/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,46,56,180
+09/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,54,65,365
+09/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,35,34,180
+09/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,36,32,365
+09/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,29,35,365
+10/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,34,3
+10/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,15,20,5
+10/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,4,5,7
+10/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,37,4
+10/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,1,1,2
+10/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,14,25,4
+10/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,60,42,180
+10/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,53,50,180
+10/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,34,45,365
+10/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,53,79,180
+10/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,37,70,365
+10/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,39,47,365
+11/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,16,30,3
+11/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,23,43,5
+11/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,8,15,7
+11/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,15,16,4
+11/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,23,2
+11/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,27,40,4
+11/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,29,56,180
+11/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,39,56,180
+11/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,37,23,365
+11/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,31,61,180
+11/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,54,92,365
+11/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,48,44,365
+12/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,16,3
+12/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,24,17,5
+12/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,43,34,7
+12/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,27,4
+12/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,35,36,2
+12/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,23,33,4
+12/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,54,104,180
+12/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,39,51,180
+12/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,77,120,365
+12/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,28,49,180
+12/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,44,86,365
+12/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,27,27,365
+13/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,29,32,3
+13/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,8,7,5
+13/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,32,60,7
+13/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,30,4
+13/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,35,2
+13/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,28,4
+13/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,58,87,180
+13/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,33,60,180
+13/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,40,60,365
+13/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,69,48,180
+13/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,58,110,365
+13/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,29,35,365
+14/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,10,13,3
+14/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,22,21,5
+14/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,24,18,7
+14/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,25,15,4
+14/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,21,35,2
+14/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,18,13,4
+14/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,27,49,180
+14/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,33,59,180
+14/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,40,49,365
+14/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,32,45,180
+14/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,54,72,365
+14/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,39,55,365
+15/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,20,21,3
+15/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,7,12,5
+15/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,29,46,7
+15/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,28,26,4
+15/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,14,19,2
+15/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,26,4
+15/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,40,33,180
+15/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,47,48,180
+15/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,37,37,365
+15/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,32,32,180
+15/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,39,37,365
+15/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,26,32,365
+16/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,41,3
+16/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,15,17,5
+16/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,19,36,7
+16/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,29,4
+16/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,29,45,2
+16/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,16,4
+16/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,52,40,180
+16/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,34,45,180
+16/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,57,77,365
+16/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,36,67,180
+16/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,31,20,365
+16/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,42,25,365
+17/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,22,28,3
+17/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,30,24,5
+17/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,25,33,7
+17/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,11,4
+17/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,29,21,2
+17/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,31,38,4
+17/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,18,23,180
+17/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,30,44,180
+17/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,56,47,365
+17/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,54,37,180
+17/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,42,69,365
+17/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,36,28,365
+18/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,24,26,3
+18/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,9,6,5
+18/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,17,11,7
+18/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,26,17,4
+18/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,19,2
+18/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,9,12,4
+18/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,22,23,180
+18/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,37,52,180
+18/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,32,36,365
+18/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,48,82,180
+18/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,22,17,365
+18/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,54,40,365
+19/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,17,15,3
+19/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,31,22,5
+19/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,32,7
+19/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,13,17,4
+19/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,26,2
+19/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,18,23,4
+19/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,36,47,180
+19/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,60,48,180
+19/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,69,119,365
+19/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,74,55,180
+19/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,45,58,365
+19/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,77,144,365
+20/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,7,13,3
+20/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,39,58,5
+20/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,20,30,7
+20/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,11,4
+20/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,30,2
+20/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,32,26,4
+20/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,59,73,180
+20/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,48,51,180
+20/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,81,52,365
+20/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,62,94,180
+20/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,44,78,365
+20/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,29,25,365
+21/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,53,3
+21/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,24,25,5
+21/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,28,7
+21/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,19,4
+21/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,25,23,2
+21/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,14,24,4
+21/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,59,40,180
+21/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,57,69,180
+21/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,50,97,365
+21/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,57,58,180
+21/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,44,46,365
+21/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,38,59,365
+22/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,9,14,3
+22/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,22,13,5
+22/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,22,37,7
+22/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,3,4,4
+22/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,8,10,2
+22/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,26,4
+22/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,60,58,180
+22/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,29,31,180
+22/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,40,28,365
+22/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,27,39,180
+22/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,23,16,365
+22/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,31,47,365
+23/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,14,9,3
+23/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,16,31,5
+23/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,6,9,7
+23/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,17,20,4
+23/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,14,10,2
+23/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,31,46,4
+23/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,39,38,180
+23/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,29,45,180
+23/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,46,56,365
+23/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,33,40,180
+23/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,30,37,365
+23/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,36,48,365
+24/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,19,15,3
+24/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,28,19,5
+24/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,14,26,7
+24/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,30,46,4
+24/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,46,2
+24/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,19,4
+24/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,30,28,180
+24/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,58,94,180
+24/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,57,56,365
+24/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,42,30,180
+24/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,39,31,365
+24/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,36,35,365
+25/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,28,34,3
+25/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,26,47,5
+25/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,27,17,7
+25/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,23,30,4
+25/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,14,12,2
+25/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,21,4
+25/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,50,94,180
+25/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,32,54,180
+25/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,24,16,365
+25/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,58,82,180
+25/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,26,41,365
+25/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,22,40,365
+26/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,30,45,3
+26/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,22,42,5
+26/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,39,37,7
+26/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,44,28,4
+26/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,17,17,2
+26/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,37,65,4
+26/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,46,31,180
+26/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,30,27,180
+26/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,49,76,365
+26/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,47,90,180
+26/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,72,137,365
+26/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,77,124,365
+27/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,32,43,3
+27/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,32,60,5
+27/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,22,36,7
+27/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,45,4
+27/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,33,64,2
+27/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,36,4
+27/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,56,46,180
+27/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,43,29,180
+27/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,30,58,365
+27/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,76,140,180
+27/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,61,118,365
+27/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,31,22,365
+28/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,20,20,3
+28/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,20,35,5
+28/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,24,21,7
+28/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,22,35,4
+28/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,12,2
+28/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,19,35,4
+28/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,44,60,180
+28/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,28,53,180
+28/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,44,67,365
+28/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,47,32,180
+28/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,16,27,365
+28/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,57,61,365
+29/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,11,18,3
+29/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,23,24,5
+29/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,14,13,7
+29/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,17,27,4
+29/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,22,30,2
+29/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,11,9,4
+29/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,27,30,180
+29/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,51,83,180
+29/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,59,57,365
+29/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,47,89,180
+29/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,20,30,365
+29/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,46,73,365
+30/09/2026,Gajuwaka Industrial Hub,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,16,19,3
+30/09/2026,Gajuwaka Industrial Hub,P102,Heritage Curd 500g,Dairy,Perishable,40,9,10,5
+30/09/2026,Gajuwaka Industrial Hub,P103,Fresh Paneer 200g,Dairy,Perishable,110,22,16,7
+30/09/2026,Gajuwaka Industrial Hub,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,45,4
+30/09/2026,Gajuwaka Industrial Hub,P105,Fresh Spinach Bunch,Produce,Perishable,20,33,63,2
+30/09/2026,Gajuwaka Industrial Hub,P106,Modern Brown Bread 400g,Bakery,Perishable,45,11,14,4
+30/09/2026,Gajuwaka Industrial Hub,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,55,56,180
+30/09/2026,Gajuwaka Industrial Hub,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,42,30,180
+30/09/2026,Gajuwaka Industrial Hub,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,52,58,365
+30/09/2026,Gajuwaka Industrial Hub,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,47,41,180
+30/09/2026,Gajuwaka Industrial Hub,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,42,53,365
+30/09/2026,Gajuwaka Industrial Hub,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,16,27,365

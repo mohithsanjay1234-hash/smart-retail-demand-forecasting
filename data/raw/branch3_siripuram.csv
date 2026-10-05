@@ -1,0 +1,1081 @@
+Date,Branch,Prod_ID,Item_Name,Category,Product_Type,Price,Qty_Sold,Available_Stock,Max_Shelf_Days
+2026/07/03,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,22,39,3
+2026/07/03,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,16,21,5
+2026/07/03,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,42,69,7
+2026/07/03,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,39,54,4
+2026/07/03,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,40,54,2
+2026/07/03,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,49,4
+2026/07/03,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,40,57,180
+2026/07/03,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,39,79,180
+2026/07/03,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,17,22,365
+2026/07/03,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,10,10,180
+2026/07/03,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,37,45,365
+2026/07/03,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,33,40,365
+2026/07/04,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,37,29,3
+2026/07/04,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,30,54,5
+2026/07/04,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,34,56,7
+2026/07/04,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,16,4
+2026/07/04,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,56,83,2
+2026/07/04,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,48,36,4
+2026/07/04,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,16,18,180
+2026/07/04,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,34,24,180
+2026/07/04,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,46,87,365
+2026/07/04,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,32,42,180
+2026/07/04,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,50,88,365
+2026/07/04,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,11,13,365
+2026/07/05,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,18,34,3
+2026/07/05,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,38,57,5
+2026/07/05,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,12,12,7
+2026/07/05,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,22,4
+2026/07/05,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,27,54,2
+2026/07/05,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,35,63,4
+2026/07/05,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,37,26,180
+2026/07/05,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,55,109,180
+2026/07/05,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,36,61,365
+2026/07/05,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,29,61,180
+2026/07/05,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,35,31,365
+2026/07/05,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,39,73,365
+2026/07/06,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,17,26,3
+2026/07/06,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,32,26,5
+2026/07/06,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,32,51,7
+2026/07/06,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,12,4
+2026/07/06,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,41,66,2
+2026/07/06,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,24,28,4
+2026/07/06,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,32,30,180
+2026/07/06,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,28,53,180
+2026/07/06,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,41,37,365
+2026/07/06,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,8,11,180
+2026/07/06,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,8,10,365
+2026/07/06,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,35,73,365
+2026/07/07,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,46,53,3
+2026/07/07,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,12,10,5
+2026/07/07,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,12,25,7
+2026/07/07,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,27,40,4
+2026/07/07,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,27,33,2
+2026/07/07,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,44,84,4
+2026/07/07,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,16,18,180
+2026/07/07,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,14,11,180
+2026/07/07,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,39,41,365
+2026/07/07,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,35,55,180
+2026/07/07,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,38,82,365
+2026/07/07,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,36,65,365
+2026/07/08,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,13,11,3
+2026/07/08,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,10,13,5
+2026/07/08,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,20,42,7
+2026/07/08,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,13,12,4
+2026/07/08,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,30,2
+2026/07/08,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,20,39,4
+2026/07/08,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,29,24,180
+2026/07/08,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,43,70,180
+2026/07/08,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,38,76,365
+2026/07/08,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,40,32,180
+2026/07/08,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,32,37,365
+2026/07/08,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,22,47,365
+2026/07/09,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,22,26,3
+2026/07/09,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,15,14,5
+2026/07/09,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,39,77,7
+2026/07/09,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,20,42,4
+2026/07/09,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,21,30,2
+2026/07/09,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,13,18,4
+2026/07/09,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,30,61,180
+2026/07/09,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,24,31,180
+2026/07/09,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,30,55,365
+2026/07/09,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,35,180
+2026/07/09,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,27,55,365
+2026/07/09,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,25,54,365
+2026/07/10,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,22,27,3
+2026/07/10,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,20,34,5
+2026/07/10,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,41,66,7
+2026/07/10,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,35,4
+2026/07/10,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,17,28,2
+2026/07/10,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,38,4
+2026/07/10,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,29,22,180
+2026/07/10,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,37,68,180
+2026/07/10,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,19,30,365
+2026/07/10,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,27,46,180
+2026/07/10,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,30,60,365
+2026/07/10,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,23,40,365
+2026/07/11,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,33,45,3
+2026/07/11,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,20,28,5
+2026/07/11,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,39,66,7
+2026/07/11,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,50,107,4
+2026/07/11,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,23,2
+2026/07/11,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,33,67,4
+2026/07/11,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,29,46,180
+2026/07/11,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,27,25,180
+2026/07/11,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,43,73,365
+2026/07/11,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,40,60,180
+2026/07/11,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,21,29,365
+2026/07/11,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,17,22,365
+2026/07/12,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,43,85,3
+2026/07/12,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,34,41,5
+2026/07/12,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,21,43,7
+2026/07/12,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,12,4
+2026/07/12,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,44,76,2
+2026/07/12,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,47,57,4
+2026/07/12,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,26,18,180
+2026/07/12,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,47,46,180
+2026/07/12,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,42,76,365
+2026/07/12,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,36,77,180
+2026/07/12,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,23,18,365
+2026/07/12,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,21,26,365
+2026/07/13,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,22,30,3
+2026/07/13,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,19,37,5
+2026/07/13,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,44,7
+2026/07/13,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,23,38,4
+2026/07/13,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,38,71,2
+2026/07/13,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,29,41,4
+2026/07/13,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,17,23,180
+2026/07/13,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,21,30,180
+2026/07/13,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,25,51,365
+2026/07/13,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,37,78,180
+2026/07/13,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,35,57,365
+2026/07/13,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,22,16,365
+2026/07/14,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,14,3
+2026/07/14,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,38,27,5
+2026/07/14,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,25,24,7
+2026/07/14,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,41,82,4
+2026/07/14,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,35,64,2
+2026/07/14,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,38,4
+2026/07/14,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,15,17,180
+2026/07/14,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,34,180
+2026/07/14,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,37,43,365
+2026/07/14,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,39,29,180
+2026/07/14,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,17,18,365
+2026/07/14,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,42,60,365
+2026/07/15,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,37,3
+2026/07/15,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,14,18,5
+2026/07/15,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,26,30,7
+2026/07/15,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,18,12,4
+2026/07/15,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,39,56,2
+2026/07/15,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,32,64,4
+2026/07/15,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,35,39,180
+2026/07/15,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,28,31,180
+2026/07/15,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,39,71,365
+2026/07/15,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,38,68,180
+2026/07/15,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,21,29,365
+2026/07/15,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,44,48,365
+2026/07/16,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,45,91,3
+2026/07/16,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,34,55,5
+2026/07/16,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,29,56,7
+2026/07/16,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,27,48,4
+2026/07/16,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,30,2
+2026/07/16,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,40,57,4
+2026/07/16,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,23,20,180
+2026/07/16,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,27,29,180
+2026/07/16,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,37,45,365
+2026/07/16,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,33,46,180
+2026/07/16,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,37,47,365
+2026/07/16,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,44,46,365
+2026/07/17,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,34,47,3
+2026/07/17,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,9,11,5
+2026/07/17,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,19,27,7
+2026/07/17,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,15,4
+2026/07/17,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,11,20,2
+2026/07/17,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,19,20,4
+2026/07/17,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,28,41,180
+2026/07/17,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,24,49,180
+2026/07/17,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,28,36,365
+2026/07/17,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,40,53,180
+2026/07/17,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,34,29,365
+2026/07/17,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,28,58,365
+2026/07/18,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,48,65,3
+2026/07/18,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,46,93,5
+2026/07/18,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,44,68,7
+2026/07/18,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,38,58,4
+2026/07/18,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,53,80,2
+2026/07/18,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,52,65,4
+2026/07/18,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,15,27,180
+2026/07/18,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,17,32,180
+2026/07/18,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,25,48,365
+2026/07/18,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,52,88,180
+2026/07/18,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,33,65,365
+2026/07/18,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,14,27,365
+2026/07/19,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,38,41,3
+2026/07/19,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,49,87,5
+2026/07/19,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,53,7
+2026/07/19,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,23,16,4
+2026/07/19,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,51,62,2
+2026/07/19,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,13,4
+2026/07/19,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,53,71,180
+2026/07/19,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,35,40,180
+2026/07/19,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,31,48,365
+2026/07/19,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,49,41,180
+2026/07/19,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,46,66,365
+2026/07/19,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,24,50,365
+2026/07/20,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,18,3
+2026/07/20,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,11,15,5
+2026/07/20,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,44,73,7
+2026/07/20,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,40,85,4
+2026/07/20,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,19,21,2
+2026/07/20,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,25,42,4
+2026/07/20,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,32,45,180
+2026/07/20,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,26,19,180
+2026/07/20,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,24,16,365
+2026/07/20,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,36,78,180
+2026/07/20,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,25,53,365
+2026/07/20,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,36,37,365
+2026/07/21,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,33,63,3
+2026/07/21,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,32,32,5
+2026/07/21,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,42,42,7
+2026/07/21,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,29,30,4
+2026/07/21,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,20,24,2
+2026/07/21,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,41,4
+2026/07/21,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,41,70,180
+2026/07/21,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,36,42,180
+2026/07/21,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,15,14,365
+2026/07/21,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,35,34,180
+2026/07/21,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,42,82,365
+2026/07/21,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,23,41,365
+2026/07/22,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,37,36,3
+2026/07/22,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,26,45,5
+2026/07/22,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,19,16,7
+2026/07/22,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,33,49,4
+2026/07/22,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,22,29,2
+2026/07/22,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,33,71,4
+2026/07/22,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,37,41,180
+2026/07/22,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,27,58,180
+2026/07/22,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,46,37,365
+2026/07/22,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,23,25,180
+2026/07/22,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,24,19,365
+2026/07/22,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,43,39,365
+2026/07/23,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,16,23,3
+2026/07/23,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,40,38,5
+2026/07/23,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,27,33,7
+2026/07/23,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,10,19,4
+2026/07/23,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,33,37,2
+2026/07/23,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,43,76,4
+2026/07/23,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,24,31,180
+2026/07/23,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,18,26,180
+2026/07/23,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,12,11,365
+2026/07/23,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,43,82,180
+2026/07/23,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,11,11,365
+2026/07/23,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,44,33,365
+2026/07/24,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,38,34,3
+2026/07/24,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,38,81,5
+2026/07/24,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,14,13,7
+2026/07/24,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,43,64,4
+2026/07/24,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,33,37,2
+2026/07/24,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,13,16,4
+2026/07/24,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,29,59,180
+2026/07/24,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,44,56,180
+2026/07/24,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,25,30,365
+2026/07/24,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,43,51,180
+2026/07/24,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,42,54,365
+2026/07/24,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,26,51,365
+2026/07/25,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,39,35,3
+2026/07/25,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,47,38,5
+2026/07/25,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,54,103,7
+2026/07/25,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,32,4
+2026/07/25,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,22,26,2
+2026/07/25,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,49,54,4
+2026/07/25,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,52,88,180
+2026/07/25,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,19,37,180
+2026/07/25,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,56,58,365
+2026/07/25,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,13,17,180
+2026/07/25,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,43,44,365
+2026/07/25,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,46,74,365
+2026/07/26,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,50,94,3
+2026/07/26,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,15,17,5
+2026/07/26,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,52,93,7
+2026/07/26,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,31,58,4
+2026/07/26,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,56,75,2
+2026/07/26,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,39,34,4
+2026/07/26,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,43,75,180
+2026/07/26,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,38,73,180
+2026/07/26,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,26,48,365
+2026/07/26,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,37,80,180
+2026/07/26,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,51,89,365
+2026/07/26,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,35,45,365
+2026/07/27,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,15,25,3
+2026/07/27,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,38,55,5
+2026/07/27,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,35,25,7
+2026/07/27,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,43,52,4
+2026/07/27,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,43,89,2
+2026/07/27,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,43,47,4
+2026/07/27,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,35,40,180
+2026/07/27,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,16,25,180
+2026/07/27,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,36,365
+2026/07/27,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,23,180
+2026/07/27,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,19,24,365
+2026/07/27,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,30,53,365
+2026/07/28,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,44,89,3
+2026/07/28,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,30,60,5
+2026/07/28,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,20,19,7
+2026/07/28,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,39,80,4
+2026/07/28,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,29,53,2
+2026/07/28,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,18,28,4
+2026/07/28,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,35,26,180
+2026/07/28,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,42,49,180
+2026/07/28,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,24,365
+2026/07/28,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,11,19,180
+2026/07/28,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,34,46,365
+2026/07/28,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,40,73,365
+2026/07/29,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,30,58,3
+2026/07/29,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,14,10,5
+2026/07/29,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,42,90,7
+2026/07/29,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,33,57,4
+2026/07/29,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,33,57,2
+2026/07/29,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,40,32,4
+2026/07/29,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,35,66,180
+2026/07/29,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,23,40,180
+2026/07/29,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,22,43,365
+2026/07/29,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,55,180
+2026/07/29,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,13,22,365
+2026/07/29,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,27,44,365
+2026/07/30,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,22,3
+2026/07/30,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,45,69,5
+2026/07/30,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,22,34,7
+2026/07/30,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,47,69,4
+2026/07/30,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,16,25,2
+2026/07/30,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,12,4
+2026/07/30,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,27,31,180
+2026/07/30,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,14,21,180
+2026/07/30,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,38,60,365
+2026/07/30,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,27,24,180
+2026/07/30,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,36,63,365
+2026/07/30,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,16,29,365
+2026/07/31,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,41,77,3
+2026/07/31,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,31,47,5
+2026/07/31,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,14,11,7
+2026/07/31,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,23,28,4
+2026/07/31,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,21,32,2
+2026/07/31,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,29,28,4
+2026/07/31,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,43,39,180
+2026/07/31,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,22,38,180
+2026/07/31,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,15,30,365
+2026/07/31,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,29,42,180
+2026/07/31,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,28,44,365
+2026/07/31,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,37,70,365
+2026/08/01,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,51,39,3
+2026/08/01,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,12,24,5
+2026/08/01,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,27,36,7
+2026/08/01,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,55,85,4
+2026/08/01,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,41,63,2
+2026/08/01,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,34,55,4
+2026/08/01,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,25,50,180
+2026/08/01,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,22,36,180
+2026/08/01,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,54,90,365
+2026/08/01,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,43,62,180
+2026/08/01,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,49,102,365
+2026/08/01,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,27,32,365
+2026/08/02,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,44,3
+2026/08/02,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,24,17,5
+2026/08/02,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,42,47,7
+2026/08/02,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,44,53,4
+2026/08/02,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,45,57,2
+2026/08/02,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,55,73,4
+2026/08/02,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,15,16,180
+2026/08/02,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,44,60,180
+2026/08/02,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,28,61,365
+2026/08/02,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,45,89,180
+2026/08/02,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,44,64,365
+2026/08/02,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,15,31,365
+2026/08/03,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,43,76,3
+2026/08/03,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,42,87,5
+2026/08/03,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,23,19,7
+2026/08/03,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,39,34,4
+2026/08/03,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,42,39,2
+2026/08/03,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,11,11,4
+2026/08/03,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,62,180
+2026/08/03,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,27,21,180
+2026/08/03,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,14,14,365
+2026/08/03,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,27,20,180
+2026/08/03,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,38,74,365
+2026/08/03,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,31,44,365
+2026/08/04,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,9,15,3
+2026/08/04,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,44,43,5
+2026/08/04,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,14,18,7
+2026/08/04,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,14,17,4
+2026/08/04,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,20,36,2
+2026/08/04,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,14,22,4
+2026/08/04,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,30,38,180
+2026/08/04,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,16,20,180
+2026/08/04,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,16,24,365
+2026/08/04,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,37,57,180
+2026/08/04,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,22,28,365
+2026/08/04,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,39,74,365
+2026/08/05,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,36,47,3
+2026/08/05,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,40,41,5
+2026/08/05,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,33,47,7
+2026/08/05,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,36,4
+2026/08/05,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,13,24,2
+2026/08/05,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,40,35,4
+2026/08/05,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,43,76,180
+2026/08/05,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,40,30,180
+2026/08/05,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,57,365
+2026/08/05,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,43,36,180
+2026/08/05,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,15,13,365
+2026/08/05,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,22,34,365
+2026/08/06,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,20,20,3
+2026/08/06,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,29,36,5
+2026/08/06,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,38,36,7
+2026/08/06,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,39,62,4
+2026/08/06,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,23,2
+2026/08/06,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,33,29,4
+2026/08/06,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,16,16,180
+2026/08/06,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,67,180
+2026/08/06,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,40,52,365
+2026/08/06,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,25,44,180
+2026/08/06,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,17,17,365
+2026/08/06,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,28,39,365
+2026/08/07,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,23,43,3
+2026/08/07,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,42,38,5
+2026/08/07,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,39,45,7
+2026/08/07,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,11,12,4
+2026/08/07,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,25,43,2
+2026/08/07,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,33,58,4
+2026/08/07,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,18,33,180
+2026/08/07,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,14,24,180
+2026/08/07,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,38,74,365
+2026/08/07,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,18,25,180
+2026/08/07,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,43,43,365
+2026/08/07,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,32,62,365
+2026/08/08,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,36,65,3
+2026/08/08,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,43,44,5
+2026/08/08,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,20,37,7
+2026/08/08,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,47,88,4
+2026/08/08,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,18,21,2
+2026/08/08,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,27,21,4
+2026/08/08,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,14,11,180
+2026/08/08,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,56,41,180
+2026/08/08,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,22,19,365
+2026/08/08,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,57,117,180
+2026/08/08,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,28,27,365
+2026/08/08,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,22,31,365
+2026/08/09,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,44,92,3
+2026/08/09,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,13,18,5
+2026/08/09,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,38,51,7
+2026/08/09,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,51,91,4
+2026/08/09,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,43,77,2
+2026/08/09,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,22,27,4
+2026/08/09,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,49,91,180
+2026/08/09,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,25,43,180
+2026/08/09,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,57,59,365
+2026/08/09,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,40,50,180
+2026/08/09,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,50,102,365
+2026/08/09,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,27,26,365
+2026/08/10,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,13,23,3
+2026/08/10,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,34,26,5
+2026/08/10,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,12,19,7
+2026/08/10,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,21,4
+2026/08/10,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,41,2
+2026/08/10,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,19,20,4
+2026/08/10,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,29,63,180
+2026/08/10,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,32,28,180
+2026/08/10,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,14,26,365
+2026/08/10,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,14,21,180
+2026/08/10,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,15,17,365
+2026/08/10,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,20,34,365
+2026/08/11,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,36,63,3
+2026/08/11,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,20,25,5
+2026/08/11,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,16,7
+2026/08/11,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,13,4
+2026/08/11,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,41,72,2
+2026/08/11,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,18,23,4
+2026/08/11,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,25,35,180
+2026/08/11,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,33,41,180
+2026/08/11,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,40,39,365
+2026/08/11,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,18,30,180
+2026/08/11,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,33,54,365
+2026/08/11,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,16,34,365
+2026/08/12,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,43,90,3
+2026/08/12,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,19,13,5
+2026/08/12,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,13,13,7
+2026/08/12,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,44,4
+2026/08/12,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,25,19,2
+2026/08/12,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,13,9,4
+2026/08/12,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,43,72,180
+2026/08/12,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,29,25,180
+2026/08/12,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,34,32,365
+2026/08/12,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,26,18,180
+2026/08/12,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,23,35,365
+2026/08/12,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,18,32,365
+2026/08/13,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,16,15,3
+2026/08/13,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,33,40,5
+2026/08/13,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,27,27,7
+2026/08/13,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,36,53,4
+2026/08/13,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,39,42,2
+2026/08/13,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,14,11,4
+2026/08/13,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,33,56,180
+2026/08/13,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,33,59,180
+2026/08/13,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,23,36,365
+2026/08/13,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,35,72,180
+2026/08/13,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,43,46,365
+2026/08/13,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,17,27,365
+2026/08/14,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,43,32,3
+2026/08/14,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,29,20,5
+2026/08/14,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,25,43,7
+2026/08/14,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,21,30,4
+2026/08/14,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,41,74,2
+2026/08/14,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,35,26,4
+2026/08/14,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,27,32,180
+2026/08/14,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,19,14,180
+2026/08/14,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,31,61,365
+2026/08/14,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,19,39,180
+2026/08/14,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,23,31,365
+2026/08/14,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,40,33,365
+2026/08/15,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,26,18,3
+2026/08/15,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,26,38,5
+2026/08/15,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,40,48,7
+2026/08/15,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,51,96,4
+2026/08/15,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,38,28,2
+2026/08/15,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,35,74,4
+2026/08/15,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,41,39,180
+2026/08/15,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,47,40,180
+2026/08/15,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,43,58,365
+2026/08/15,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,52,52,180
+2026/08/15,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,34,69,365
+2026/08/15,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,24,32,365
+2026/08/16,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,18,25,3
+2026/08/16,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,47,90,5
+2026/08/16,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,48,40,7
+2026/08/16,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,68,4
+2026/08/16,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,28,54,2
+2026/08/16,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,37,41,4
+2026/08/16,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,49,51,180
+2026/08/16,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,21,34,180
+2026/08/16,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,18,33,365
+2026/08/16,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,46,180
+2026/08/16,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,18,29,365
+2026/08/16,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,35,54,365
+2026/08/17,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,38,55,3
+2026/08/17,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,17,20,5
+2026/08/17,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,24,47,7
+2026/08/17,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,39,60,4
+2026/08/17,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,31,49,2
+2026/08/17,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,36,4
+2026/08/17,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,54,180
+2026/08/17,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,81,180
+2026/08/17,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,17,26,365
+2026/08/17,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,36,44,180
+2026/08/17,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,40,50,365
+2026/08/17,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,8,9,365
+2026/08/18,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,33,31,3
+2026/08/18,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,15,19,5
+2026/08/18,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,29,20,7
+2026/08/18,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,14,9,4
+2026/08/18,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,41,2
+2026/08/18,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,18,19,4
+2026/08/18,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,42,69,180
+2026/08/18,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,25,27,180
+2026/08/18,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,36,62,365
+2026/08/18,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,24,47,180
+2026/08/18,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,23,47,365
+2026/08/18,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,22,46,365
+2026/08/19,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,23,49,3
+2026/08/19,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,22,39,5
+2026/08/19,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,42,69,7
+2026/08/19,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,44,37,4
+2026/08/19,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,38,32,2
+2026/08/19,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,29,22,4
+2026/08/19,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,54,180
+2026/08/19,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,36,53,180
+2026/08/19,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,41,34,365
+2026/08/19,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,26,54,180
+2026/08/19,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,29,28,365
+2026/08/19,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,14,18,365
+2026/08/20,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,42,56,3
+2026/08/20,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,24,38,5
+2026/08/20,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,28,31,7
+2026/08/20,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,64,4
+2026/08/20,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,27,2
+2026/08/20,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,34,70,4
+2026/08/20,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,28,40,180
+2026/08/20,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,31,52,180
+2026/08/20,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,17,23,365
+2026/08/20,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,15,19,180
+2026/08/20,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,33,23,365
+2026/08/20,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,39,35,365
+2026/08/21,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,17,15,3
+2026/08/21,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,36,60,5
+2026/08/21,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,20,38,7
+2026/08/21,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,41,4
+2026/08/21,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,25,19,2
+2026/08/21,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,34,4
+2026/08/21,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,27,50,180
+2026/08/21,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,38,64,180
+2026/08/21,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,21,29,365
+2026/08/21,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,18,14,180
+2026/08/21,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,14,15,365
+2026/08/21,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,28,38,365
+2026/08/22,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,49,97,3
+2026/08/22,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,38,41,5
+2026/08/22,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,33,33,7
+2026/08/22,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,38,70,4
+2026/08/22,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,44,2
+2026/08/22,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,20,30,4
+2026/08/22,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,19,34,180
+2026/08/22,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,27,40,180
+2026/08/22,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,22,15,365
+2026/08/22,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,49,89,180
+2026/08/22,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,50,65,365
+2026/08/22,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,30,24,365
+2026/08/23,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,25,51,3
+2026/08/23,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,16,24,5
+2026/08/23,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,39,28,7
+2026/08/23,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,53,59,4
+2026/08/23,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,48,82,2
+2026/08/23,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,38,77,4
+2026/08/23,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,17,34,180
+2026/08/23,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,47,91,180
+2026/08/23,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,32,48,365
+2026/08/23,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,18,28,180
+2026/08/23,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,31,66,365
+2026/08/23,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,32,27,365
+2026/08/24,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,39,39,3
+2026/08/24,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,22,46,5
+2026/08/24,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,9,6,7
+2026/08/24,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,34,4
+2026/08/24,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,12,12,2
+2026/08/24,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,31,65,4
+2026/08/24,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,26,19,180
+2026/08/24,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,28,40,180
+2026/08/24,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,30,27,365
+2026/08/24,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,74,180
+2026/08/24,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,21,36,365
+2026/08/24,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,31,36,365
+2026/08/25,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,34,50,3
+2026/08/25,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,40,43,5
+2026/08/25,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,43,92,7
+2026/08/25,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,19,26,4
+2026/08/25,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,25,27,2
+2026/08/25,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,22,39,4
+2026/08/25,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,23,38,180
+2026/08/25,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,31,61,180
+2026/08/25,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,46,82,365
+2026/08/25,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,43,85,180
+2026/08/25,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,26,26,365
+2026/08/25,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,24,23,365
+2026/08/26,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,19,41,3
+2026/08/26,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,22,47,5
+2026/08/26,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,36,48,7
+2026/08/26,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,38,35,4
+2026/08/26,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,37,2
+2026/08/26,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,12,17,4
+2026/08/26,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,27,29,180
+2026/08/26,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,25,48,180
+2026/08/26,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,19,34,365
+2026/08/26,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,30,43,180
+2026/08/26,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,41,83,365
+2026/08/26,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,41,65,365
+2026/08/27,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,31,40,3
+2026/08/27,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,28,57,5
+2026/08/27,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,42,55,7
+2026/08/27,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,13,11,4
+2026/08/27,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,36,66,2
+2026/08/27,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,39,77,4
+2026/08/27,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,36,49,180
+2026/08/27,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,31,44,180
+2026/08/27,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,42,85,365
+2026/08/27,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,26,38,180
+2026/08/27,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,40,29,365
+2026/08/27,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,28,40,365
+2026/08/28,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,17,3
+2026/08/28,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,15,21,5
+2026/08/28,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,18,33,7
+2026/08/28,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,29,29,4
+2026/08/28,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,19,2
+2026/08/28,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,19,29,4
+2026/08/28,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,15,17,180
+2026/08/28,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,32,25,180
+2026/08/28,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,17,25,365
+2026/08/28,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,32,34,180
+2026/08/28,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,24,27,365
+2026/08/28,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,26,40,365
+2026/08/29,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,50,57,3
+2026/08/29,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,53,37,5
+2026/08/29,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,16,21,7
+2026/08/29,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,41,32,4
+2026/08/29,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,38,79,2
+2026/08/29,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,31,27,4
+2026/08/29,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,35,48,180
+2026/08/29,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,46,91,180
+2026/08/29,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,26,40,365
+2026/08/29,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,53,64,180
+2026/08/29,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,29,60,365
+2026/08/29,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,27,22,365
+2026/08/30,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,53,111,3
+2026/08/30,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,44,33,5
+2026/08/30,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,33,58,7
+2026/08/30,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,46,53,4
+2026/08/30,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,16,31,2
+2026/08/30,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,24,34,4
+2026/08/30,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,22,46,180
+2026/08/30,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,16,33,180
+2026/08/30,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,19,31,365
+2026/08/30,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,54,93,180
+2026/08/30,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,29,52,365
+2026/08/30,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,31,59,365
+2026/08/31,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,44,38,3
+2026/08/31,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,37,28,5
+2026/08/31,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,35,55,7
+2026/08/31,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,34,54,4
+2026/08/31,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,33,31,2
+2026/08/31,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,34,4
+2026/08/31,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,43,55,180
+2026/08/31,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,29,55,180
+2026/08/31,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,37,365
+2026/08/31,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,24,180
+2026/08/31,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,18,13,365
+2026/08/31,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,33,65,365
+2026/09/01,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,32,53,3
+2026/09/01,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,37,68,5
+2026/09/01,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,29,38,7
+2026/09/01,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,34,29,4
+2026/09/01,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,36,39,2
+2026/09/01,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,47,71,4
+2026/09/01,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,30,32,180
+2026/09/01,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,22,36,180
+2026/09/01,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,31,39,365
+2026/09/01,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,40,50,180
+2026/09/01,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,43,46,365
+2026/09/01,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,17,24,365
+2026/09/02,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,25,38,3
+2026/09/02,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,45,93,5
+2026/09/02,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,27,53,7
+2026/09/02,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,14,16,4
+2026/09/02,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,35,72,2
+2026/09/02,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,36,66,4
+2026/09/02,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,14,28,180
+2026/09/02,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,35,52,180
+2026/09/02,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,25,38,365
+2026/09/02,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,18,15,180
+2026/09/02,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,20,24,365
+2026/09/02,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,18,13,365
+2026/09/03,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,30,49,3
+2026/09/03,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,13,11,5
+2026/09/03,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,19,7
+2026/09/03,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,11,4
+2026/09/03,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,31,67,2
+2026/09/03,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,20,38,4
+2026/09/03,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,26,45,180
+2026/09/03,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,33,51,180
+2026/09/03,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,26,33,365
+2026/09/03,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,28,27,180
+2026/09/03,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,17,12,365
+2026/09/03,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,16,31,365
+2026/09/04,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,39,3
+2026/09/04,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,38,68,5
+2026/09/04,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,24,24,7
+2026/09/04,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,35,63,4
+2026/09/04,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,24,2
+2026/09/04,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,15,28,4
+2026/09/04,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,26,180
+2026/09/04,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,20,35,180
+2026/09/04,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,31,25,365
+2026/09/04,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,35,51,180
+2026/09/04,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,15,26,365
+2026/09/04,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,19,23,365
+2026/09/05,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,44,45,3
+2026/09/05,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,49,93,5
+2026/09/05,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,17,26,7
+2026/09/05,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,36,59,4
+2026/09/05,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,13,26,2
+2026/09/05,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,49,63,4
+2026/09/05,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,53,180
+2026/09/05,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,44,180
+2026/09/05,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,19,20,365
+2026/09/05,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,52,79,180
+2026/09/05,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,49,60,365
+2026/09/05,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,26,25,365
+2026/09/06,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,17,24,3
+2026/09/06,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,19,28,5
+2026/09/06,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,36,32,7
+2026/09/06,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,19,22,4
+2026/09/06,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,22,31,2
+2026/09/06,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,33,49,4
+2026/09/06,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,21,23,180
+2026/09/06,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,18,13,180
+2026/09/06,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,33,34,365
+2026/09/06,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,22,15,180
+2026/09/06,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,13,11,365
+2026/09/06,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,32,54,365
+2026/09/07,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,14,3
+2026/09/07,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,25,54,5
+2026/09/07,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,12,7
+2026/09/07,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,23,34,4
+2026/09/07,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,8,16,2
+2026/09/07,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,25,50,4
+2026/09/07,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,28,52,180
+2026/09/07,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,23,24,180
+2026/09/07,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,20,23,365
+2026/09/07,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,46,180
+2026/09/07,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,17,25,365
+2026/09/07,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,28,40,365
+2026/09/08,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,37,3
+2026/09/08,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,15,13,5
+2026/09/08,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,38,62,7
+2026/09/08,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,43,62,4
+2026/09/08,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,31,60,2
+2026/09/08,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,32,29,4
+2026/09/08,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,26,28,180
+2026/09/08,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,24,27,180
+2026/09/08,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,32,59,365
+2026/09/08,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,34,36,180
+2026/09/08,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,31,41,365
+2026/09/08,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,19,31,365
+2026/09/09,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,28,43,3
+2026/09/09,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,17,15,5
+2026/09/09,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,26,47,7
+2026/09/09,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,24,30,4
+2026/09/09,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,11,2
+2026/09/09,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,13,26,4
+2026/09/09,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,21,33,180
+2026/09/09,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,26,39,180
+2026/09/09,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,25,42,365
+2026/09/09,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,20,40,180
+2026/09/09,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,13,25,365
+2026/09/09,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,15,11,365
+2026/09/10,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,42,84,3
+2026/09/10,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,21,25,5
+2026/09/10,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,41,62,7
+2026/09/10,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,30,63,4
+2026/09/10,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,39,56,2
+2026/09/10,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,13,17,4
+2026/09/10,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,37,76,180
+2026/09/10,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,26,45,180
+2026/09/10,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,47,60,365
+2026/09/10,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,15,26,180
+2026/09/10,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,16,27,365
+2026/09/10,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,36,72,365
+2026/09/11,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,20,39,3
+2026/09/11,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,23,28,5
+2026/09/11,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,14,20,7
+2026/09/11,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,30,59,4
+2026/09/11,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,38,67,2
+2026/09/11,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,33,37,4
+2026/09/11,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,33,180
+2026/09/11,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,44,60,180
+2026/09/11,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,23,35,365
+2026/09/11,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,41,82,180
+2026/09/11,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,36,72,365
+2026/09/11,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,27,29,365
+2026/09/12,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,25,39,3
+2026/09/12,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,52,54,5
+2026/09/12,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,44,81,7
+2026/09/12,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,20,28,4
+2026/09/12,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,35,53,2
+2026/09/12,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,37,43,4
+2026/09/12,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,40,31,180
+2026/09/12,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,59,180
+2026/09/12,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,44,34,365
+2026/09/12,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,22,30,180
+2026/09/12,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,52,47,365
+2026/09/12,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,22,32,365
+2026/09/13,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,26,3
+2026/09/13,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,27,57,5
+2026/09/13,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,38,42,7
+2026/09/13,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,27,59,4
+2026/09/13,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,39,27,2
+2026/09/13,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,22,18,4
+2026/09/13,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,31,47,180
+2026/09/13,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,30,35,180
+2026/09/13,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,21,20,365
+2026/09/13,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,26,33,180
+2026/09/13,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,40,54,365
+2026/09/13,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,17,24,365
+2026/09/14,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,16,28,3
+2026/09/14,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,14,20,5
+2026/09/14,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,36,31,7
+2026/09/14,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,42,42,4
+2026/09/14,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,19,2
+2026/09/14,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,32,27,4
+2026/09/14,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,15,28,180
+2026/09/14,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,30,24,180
+2026/09/14,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,18,29,365
+2026/09/14,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,25,19,180
+2026/09/14,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,16,24,365
+2026/09/14,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,12,9,365
+2026/09/15,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,30,63,3
+2026/09/15,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,23,34,5
+2026/09/15,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,26,29,7
+2026/09/15,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,40,85,4
+2026/09/15,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,30,29,2
+2026/09/15,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,23,38,4
+2026/09/15,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,26,37,180
+2026/09/15,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,36,40,180
+2026/09/15,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,38,31,365
+2026/09/15,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,33,70,180
+2026/09/15,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,39,53,365
+2026/09/15,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,22,37,365
+2026/09/16,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,20,19,3
+2026/09/16,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,42,47,5
+2026/09/16,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,34,29,7
+2026/09/16,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,33,43,4
+2026/09/16,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,38,33,2
+2026/09/16,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,13,15,4
+2026/09/16,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,38,55,180
+2026/09/16,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,33,66,180
+2026/09/16,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,31,46,365
+2026/09/16,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,37,44,180
+2026/09/16,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,46,65,365
+2026/09/16,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,25,32,365
+2026/09/17,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,21,36,3
+2026/09/17,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,32,56,5
+2026/09/17,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,26,55,7
+2026/09/17,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,26,39,4
+2026/09/17,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,31,24,2
+2026/09/17,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,35,45,4
+2026/09/17,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,34,46,180
+2026/09/17,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,19,34,180
+2026/09/17,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,26,53,365
+2026/09/17,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,32,38,180
+2026/09/17,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,24,45,365
+2026/09/17,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,17,33,365
+2026/09/18,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,21,3
+2026/09/18,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,34,44,5
+2026/09/18,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,38,67,7
+2026/09/18,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,35,4
+2026/09/18,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,49,2
+2026/09/18,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,28,29,4
+2026/09/18,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,12,20,180
+2026/09/18,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,25,28,180
+2026/09/18,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,35,72,365
+2026/09/18,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,28,53,180
+2026/09/18,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,36,30,365
+2026/09/18,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,31,39,365
+2026/09/19,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,42,91,3
+2026/09/19,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,49,49,5
+2026/09/19,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,43,60,7
+2026/09/19,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,32,47,4
+2026/09/19,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,47,97,2
+2026/09/19,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,32,4
+2026/09/19,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,41,50,180
+2026/09/19,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,43,49,180
+2026/09/19,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,31,48,365
+2026/09/19,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,40,74,180
+2026/09/19,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,41,68,365
+2026/09/19,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,41,53,365
+2026/09/20,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,12,17,3
+2026/09/20,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,35,28,5
+2026/09/20,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,31,42,7
+2026/09/20,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,38,50,4
+2026/09/20,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,18,21,2
+2026/09/20,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,29,38,4
+2026/09/20,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,17,14,180
+2026/09/20,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,16,30,180
+2026/09/20,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,55,93,365
+2026/09/20,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,44,53,180
+2026/09/20,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,41,37,365
+2026/09/20,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,43,85,365
+2026/09/21,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,23,41,3
+2026/09/21,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,17,16,5
+2026/09/21,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,21,31,7
+2026/09/21,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,17,4
+2026/09/21,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,14,12,2
+2026/09/21,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,21,23,4
+2026/09/21,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,20,29,180
+2026/09/21,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,18,21,180
+2026/09/21,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,16,23,365
+2026/09/21,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,22,37,180
+2026/09/21,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,24,20,365
+2026/09/21,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,15,15,365
+2026/09/22,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,22,17,3
+2026/09/22,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,19,29,5
+2026/09/22,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,22,27,7
+2026/09/22,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,20,33,4
+2026/09/22,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,21,2
+2026/09/22,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,31,46,4
+2026/09/22,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,29,37,180
+2026/09/22,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,28,57,180
+2026/09/22,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,20,30,365
+2026/09/22,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,31,52,180
+2026/09/22,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,38,59,365
+2026/09/22,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,42,46,365
+2026/09/23,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,42,88,3
+2026/09/23,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,16,21,5
+2026/09/23,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,10,8,7
+2026/09/23,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,26,30,4
+2026/09/23,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,37,60,2
+2026/09/23,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,16,11,4
+2026/09/23,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,26,48,180
+2026/09/23,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,35,48,180
+2026/09/23,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,16,28,365
+2026/09/23,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,29,49,180
+2026/09/23,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,27,35,365
+2026/09/23,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,13,21,365
+2026/09/24,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,27,51,3
+2026/09/24,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,24,52,5
+2026/09/24,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,24,19,7
+2026/09/24,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,40,66,4
+2026/09/24,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,36,70,2
+2026/09/24,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,26,36,4
+2026/09/24,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,20,18,180
+2026/09/24,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,43,66,180
+2026/09/24,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,18,12,365
+2026/09/24,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,26,31,180
+2026/09/24,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,25,25,365
+2026/09/24,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,28,43,365
+2026/09/25,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,31,24,3
+2026/09/25,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,22,39,5
+2026/09/25,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,15,23,7
+2026/09/25,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,33,69,4
+2026/09/25,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,24,23,2
+2026/09/25,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,32,32,4
+2026/09/25,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,24,20,180
+2026/09/25,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,41,70,180
+2026/09/25,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,39,51,365
+2026/09/25,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,26,24,180
+2026/09/25,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,45,31,365
+2026/09/25,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,26,40,365
+2026/09/26,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,55,46,3
+2026/09/26,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,36,50,5
+2026/09/26,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,30,22,7
+2026/09/26,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,53,80,4
+2026/09/26,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,56,46,2
+2026/09/26,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,53,88,4
+2026/09/26,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,13,18,180
+2026/09/26,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,33,66,180
+2026/09/26,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,34,365
+2026/09/26,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,47,66,180
+2026/09/26,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,49,52,365
+2026/09/26,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,51,69,365
+2026/09/27,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,29,49,3
+2026/09/27,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,39,61,5
+2026/09/27,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,53,76,7
+2026/09/27,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,46,83,4
+2026/09/27,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,15,11,2
+2026/09/27,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,17,35,4
+2026/09/27,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,22,42,180
+2026/09/27,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,49,79,180
+2026/09/27,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,39,45,365
+2026/09/27,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,31,62,180
+2026/09/27,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,57,67,365
+2026/09/27,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,50,106,365
+2026/09/28,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,40,54,3
+2026/09/28,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,41,49,5
+2026/09/28,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,25,31,7
+2026/09/28,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,14,25,4
+2026/09/28,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,23,33,2
+2026/09/28,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,25,40,4
+2026/09/28,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,32,58,180
+2026/09/28,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,19,30,180
+2026/09/28,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,29,20,365
+2026/09/28,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,40,80,180
+2026/09/28,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,46,92,365
+2026/09/28,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,26,23,365
+2026/09/29,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,15,21,3
+2026/09/29,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,16,20,5
+2026/09/29,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,40,81,7
+2026/09/29,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,16,22,4
+2026/09/29,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,26,35,2
+2026/09/29,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,34,39,4
+2026/09/29,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,34,54,180
+2026/09/29,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,38,35,180
+2026/09/29,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,24,43,365
+2026/09/29,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,29,63,180
+2026/09/29,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,15,20,365
+2026/09/29,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,12,13,365
+2026/09/30,Siripuram Junction,P101,Jersey Fresh Milk 1L,Dairy,Perishable,60,15,25,3
+2026/09/30,Siripuram Junction,P102,Heritage Curd 500g,Dairy,Perishable,40,30,55,5
+2026/09/30,Siripuram Junction,P103,Fresh Paneer 200g,Dairy,Perishable,110,25,19,7
+2026/09/30,Siripuram Junction,P104,Local Hybrid Tomatoes 1kg,Produce,Perishable,35,27,45,4
+2026/09/30,Siripuram Junction,P105,Fresh Spinach Bunch,Produce,Perishable,20,45,87,2
+2026/09/30,Siripuram Junction,P106,Modern Brown Bread 400g,Bakery,Perishable,45,43,56,4
+2026/09/30,Siripuram Junction,F201,Sona Masoori Rice 10kg,Staples,Fast-Moving Goods,550,25,37,180
+2026/09/30,Siripuram Junction,F202,Freedom Sunflower Oil 1L,Staples,Fast-Moving Goods,135,32,52,180
+2026/09/30,Siripuram Junction,F203,Tata Tea Gold 500g,Beverages,Fast-Moving Goods,280,21,29,365
+2026/09/30,Siripuram Junction,F204,Maggi Masala Noodles 4-Pack,Packaged Food,Fast-Moving Goods,56,33,48,180
+2026/09/30,Siripuram Junction,F205,Surf Excel Easy Wash 1kg,Household,Fast-Moving Goods,140,12,18,365
+2026/09/30,Siripuram Junction,F206,Good Knight Gold Flash Refill,Household,Fast-Moving Goods,85,45,79,365
